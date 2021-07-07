@@ -1,3 +1,3 @@
 <?php
-print "Hello World from Nazish Khanam" "\n";
+print "Hello World from Nazish Khanam";
 ?>
